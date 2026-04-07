@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Login</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>08a3a0e3-432e-4284-8c18-dd956b3ddb11</testCaseGuid>
+   <variable>
+      <defaultValue>'asdd@gmail.com'</defaultValue>
+      <description></description>
+      <id>b2d97a55-8b62-4975-bf4f-264875178346</id>
+      <masked>false</masked>
+      <name>Username</name>
+   </variable>
+   <variable>
+      <defaultValue>'tzH6RvlfSTg='</defaultValue>
+      <description></description>
+      <id>0191934c-cc9c-41cf-93fa-a95dea7dcebf</id>
+      <masked>false</masked>
+      <name>Password</name>
+   </variable>
+   <variable>
+      <defaultValue>'Error: A user could not be found with this email address.'</defaultValue>
+      <description></description>
+      <id>a6ccbfc4-25f2-40ac-8205-a0d313872457</id>
+      <masked>false</masked>
+      <name>LabelError</name>
+   </variable>
+</TestCaseEntity>

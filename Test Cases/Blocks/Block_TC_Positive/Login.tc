@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Login</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>dfff54c9-4016-47d2-8951-722f5049a1d6</testCaseGuid>
+   <variable>
+      <defaultValue>'asdasd123456@gmail.com'</defaultValue>
+      <description></description>
+      <id>07848347-dd75-4f6f-a16e-3394126fae85</id>
+      <masked>false</masked>
+      <name>Username</name>
+   </variable>
+   <variable>
+      <defaultValue>'3V9W6UWH6RL1TQ8ULHqRCg=='</defaultValue>
+      <description></description>
+      <id>a50934a1-1b33-4583-8f1b-8875e7a56351</id>
+      <masked>false</masked>
+      <name>Password</name>
+   </variable>
+</TestCaseEntity>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Register_Account</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>73d2d0df-555c-4301-9d68-0203f40ab96d</testCaseGuid>
+   <variable>
+      <defaultValue>'3V9W6UWH6RL1TQ8ULHqRCg=='</defaultValue>
+      <description></description>
+      <id>19b1c6b2-7265-4962-bf38-b8cf75f700bc</id>
+      <masked>false</masked>
+      <name>Password</name>
+   </variable>
+   <variable>
+      <defaultValue>'asdasd123456@gmail.com'</defaultValue>
+      <description></description>
+      <id>27c1b770-f084-4d83-a7ac-6915b0f00ba7</id>
+      <masked>false</masked>
+      <name>Username</name>
+   </variable>
+   <variable>
+      <defaultValue>'Error: An account is already registered with your email address. Please login.'</defaultValue>
+      <description></description>
+      <id>bea33898-1cac-4a61-bb1b-f02366d1aac3</id>
+      <masked>false</masked>
+      <name>LabeError</name>
+   </variable>
+</TestCaseEntity>
