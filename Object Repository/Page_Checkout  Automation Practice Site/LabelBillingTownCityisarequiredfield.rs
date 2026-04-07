@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>LabelBillingTownCityisarequiredfield</name>
+   <tag></tag>
+   <elementGuidId>09da6a25-91fb-4d6d-bc17-f0e6bac6af1c</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='page-35']/div/div/form[3]/ul/li[6]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>ul.woocommerce-error > li:nth-of-type(6)</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>li</value>
+      <webElementGuid>b5249d99-4119-4313-b21e-8fcecdd550bb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Billing Town / City is a required field.</value>
+      <webElementGuid>f446b554-7ce4-4585-a1a2-38707035b579</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;page-35&quot;)/div[@class=&quot;page-content entry-content&quot;]/div[@class=&quot;woocommerce&quot;]/form[@class=&quot;checkout woocommerce-checkout&quot;]/ul[@class=&quot;woocommerce-error&quot;]/li[6]</value>
+      <webElementGuid>1c16db6e-494f-4524-a864-d408a5ea7c28</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='page-35']/div/div/form[3]/ul/li[6]</value>
+      <webElementGuid>1deac979-6f69-4e8f-850a-08fb699fc00a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Billing Address'])[1]/following::li[1]</value>
+      <webElementGuid>bb3cde9f-2f3e-4b98-9231-6692212ee79b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//form[3]/ul/li[6]</value>
+      <webElementGuid>4ddbcb2f-daa0-49aa-9217-306338f983aa</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//li[(text() = 'Billing Town / City is a required field.' or . = 'Billing Town / City is a required field.')]</value>
+      <webElementGuid>4c95cf9f-4be7-4d68-8dd1-b77333c89729</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

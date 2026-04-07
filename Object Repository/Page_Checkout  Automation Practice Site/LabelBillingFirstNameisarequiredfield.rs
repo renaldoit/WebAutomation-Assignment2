@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>LabelBillingFirstNameisarequiredfield</name>
+   <tag></tag>
+   <elementGuidId>449c9a28-7bab-43a3-9028-c47151f69803</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='page-35']/div/div/form[3]/ul/li</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>ul.woocommerce-error > li</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>li</value>
+      <webElementGuid>1e52d91a-3530-45ea-89d7-f0a240bd721f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Billing First Name is a required field.</value>
+      <webElementGuid>388ae12c-b1ca-4dda-9278-6856f767b7b9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;page-35&quot;)/div[@class=&quot;page-content entry-content&quot;]/div[@class=&quot;woocommerce&quot;]/form[@class=&quot;checkout woocommerce-checkout&quot;]/ul[@class=&quot;woocommerce-error&quot;]/li[1]</value>
+      <webElementGuid>44b1afb5-46dd-4ecd-909e-e1ccc79285d7</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='page-35']/div/div/form[3]/ul/li</value>
+      <webElementGuid>014005be-bf5e-4762-a2f5-d536e3df6c78</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Lost your password?'])[1]/following::li[1]</value>
+      <webElementGuid>029075c1-bc25-43f1-9d35-ff66da37fc74</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='is a required field.']/parent::*</value>
+      <webElementGuid>a9a13a9e-ae5a-4e7e-9ca8-0d8a2b3b4024</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//form[3]/ul/li</value>
+      <webElementGuid>5b46d79f-208d-4380-8d79-c6bbbf079216</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//li[(text() = 'Billing First Name is a required field.' or . = 'Billing First Name is a required field.')]</value>
+      <webElementGuid>5d6e6c4b-0921-4e55-b5d9-9dbcff67d337</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
