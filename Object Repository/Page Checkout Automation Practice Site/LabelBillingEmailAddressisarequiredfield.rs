@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>LabelBillingEmailAddressisarequiredfield</name>
+   <tag></tag>
+   <elementGuidId>7118959a-b280-4421-8661-40ed160a0b9b</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='page-35']/div/div/form[3]/ul/li[3]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>ul.woocommerce-error > li:nth-of-type(3)</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>li</value>
+      <webElementGuid>a4d793ff-231b-4987-9cf4-ffe296a435cc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Billing Email Address is a required field.</value>
+      <webElementGuid>13258cf2-88ed-4f75-80f5-955f46671906</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;page-35&quot;)/div[@class=&quot;page-content entry-content&quot;]/div[@class=&quot;woocommerce&quot;]/form[@class=&quot;checkout woocommerce-checkout&quot;]/ul[@class=&quot;woocommerce-error&quot;]/li[3]</value>
+      <webElementGuid>a3c1d02c-d38e-4452-b66f-d4c7e77ba214</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='page-35']/div/div/form[3]/ul/li[3]</value>
+      <webElementGuid>cfe0396d-41d7-4217-ac4d-5470902a5b47</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Billing Last Name'])[1]/following::li[1]</value>
+      <webElementGuid>54bf2d93-a3f9-4a23-ac9f-2b11040ce2c2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//form[3]/ul/li[3]</value>
+      <webElementGuid>0b03b6a7-bba7-4cc4-a9d9-1d0d2f57045a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//li[(text() = 'Billing Email Address is a required field.' or . = 'Billing Email Address is a required field.')]</value>
+      <webElementGuid>d4ea51b7-0ca6-4dc4-9526-fce769b7ccf2</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

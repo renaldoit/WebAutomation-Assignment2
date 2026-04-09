@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>List Product_Functional Programming in JS</name>
+   <tag></tag>
+   <elementGuidId>1150a943-8afa-41e1-a7a3-89011b6dbe88</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='page-34']/div/div/form/table/tbody/tr[2]/td[3]/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>9fe6d97a-4d1b-430b-bda4-a133f962c3f8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>https://practice.automationtesting.in/product/functional-programming-in-js/</value>
+      <webElementGuid>038960a4-9fc8-4a2a-975d-b8c77e345099</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Functional Programming in JS</value>
+      <webElementGuid>5c875138-6814-4b3e-aea2-251bd64596b3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;page-34&quot;)/div[@class=&quot;page-content entry-content&quot;]/div[@class=&quot;woocommerce&quot;]/form[1]/table[@class=&quot;shop_table shop_table_responsive cart&quot;]/tbody[1]/tr[@class=&quot;cart_item&quot;]/td[@class=&quot;product-name&quot;]/a[1]</value>
+      <webElementGuid>1f607516-1fab-4c69-a6bf-9c490df19a26</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='page-34']/div/div/form/table/tbody/tr[2]/td[3]/a</value>
+      <webElementGuid>7e7f26e6-67f3-47f3-bc5b-d6c001cd3bff</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Functional Programming in JS')]</value>
+      <webElementGuid>60cf2473-ec37-463f-b946-27fd248371b1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='×'])[2]/following::a[2]</value>
+      <webElementGuid>76dcdad0-52c8-42fa-bd8e-607cf26dd299</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='₹'])[2]/following::a[3]</value>
+      <webElementGuid>90c31bef-8c6d-43e5-b6a9-a15463ca7499</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='₹'])[3]/preceding::a[1]</value>
+      <webElementGuid>e487394b-5ca8-45c6-bd86-e4fe43e49f9c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='₹'])[4]/preceding::a[1]</value>
+      <webElementGuid>e522475e-0476-42f2-8bd5-a1fcd5986b1f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Functional Programming in JS']/parent::*</value>
+      <webElementGuid>e21b29c8-b8b2-4a35-a6fa-fcfc66eacac0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>(//a[contains(@href, 'https://practice.automationtesting.in/product/functional-programming-in-js/')])[2]</value>
+      <webElementGuid>48115889-cc0d-44b5-8c0a-47ff1da0e201</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//tr[2]/td[3]/a</value>
+      <webElementGuid>3dae8317-311c-43a4-9369-4f055a109bbd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'https://practice.automationtesting.in/product/functional-programming-in-js/' and (text() = 'Functional Programming in JS' or . = 'Functional Programming in JS')]</value>
+      <webElementGuid>b6c3ff04-52c9-49b4-9f6c-a0b4b1ce8044</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

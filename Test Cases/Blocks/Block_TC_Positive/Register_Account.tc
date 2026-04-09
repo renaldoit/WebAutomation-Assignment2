@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Register_Account</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>cd69a461-25d0-451e-a986-db6a4b811918</testCaseGuid>
+   <variable>
+      <defaultValue>'3V9W6UWH6RL1TQ8ULHqRCg=='</defaultValue>
+      <description></description>
+      <id>e6ddabd8-d6bf-49ba-99e7-d735af8c7973</id>
+      <masked>false</masked>
+      <name>Password</name>
+   </variable>
+</TestCaseEntity>
