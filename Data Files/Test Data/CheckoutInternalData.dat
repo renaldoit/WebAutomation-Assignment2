@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DataFileEntity>
+   <description></description>
+   <name>CheckoutInternalData</name>
+   <tag></tag>
+   <connectionProperties/>
+   <containsHeaders>true</containsHeaders>
+   <csvSeperator></csvSeperator>
+   <dataFileGUID>fc0127b8-2b02-461c-b141-9738e4a98242</dataFileGUID>
+   <dataSourceUrl></dataSourceUrl>
+   <driver>InternalData</driver>
+   <data>Kisze%40gmail.com 3V9W6UWH6RL1TQ8ULHqRCg%3D%3D India Renaldo Ibrahim Kisze Kisze%40gmail.com 08123123123222 Direct</data>
+   <data>Kisze2%40gmail.com 3V9W6UWH6RL1TQ8ULHqRCg%3D%3D Indonesia Unggul Rama Kisze2 Kisze2%40gmail.com 08123123123233 COD</data>
+   <data>Kisze3%40gmail.com 3V9W6UWH6RL1TQ8ULHqRCg%3D%3D Indonesia Habib Almalik Kisze3 Kisze3%40gmail.com 08123123123244 Check</data>
+   <data>Kisze4%40gmail.com 3V9W6UWH6RL1TQ8ULHqRCg%3D%3D India Malik Alhabib Kisze4 Kisze4%40gmail.com 08123123123255 Paypal</data>
+   <internalDataColumns>
+      <columnIndex>0</columnIndex>
+      <name>Username</name>
+      <size>4</size>
+   </internalDataColumns>
+   <internalDataColumns>
+      <columnIndex>1</columnIndex>
+      <name>Password</name>
+      <size>4</size>
+   </internalDataColumns>
+   <internalDataColumns>
+      <columnIndex>2</columnIndex>
+      <name>CountryName</name>
+      <size>4</size>
+   </internalDataColumns>
+   <internalDataColumns>
+      <columnIndex>3</columnIndex>
+      <name>FirstName</name>
+      <size>4</size>
+   </internalDataColumns>
+   <internalDataColumns>
+      <columnIndex>4</columnIndex>
+      <name>LastName</name>
+      <size>4</size>
+   </internalDataColumns>
+   <internalDataColumns>
+      <columnIndex>5</columnIndex>
+      <name>companyName</name>
+      <size>4</size>
+   </internalDataColumns>
+   <internalDataColumns>
+      <columnIndex>6</columnIndex>
+      <name>Email</name>
+      <size>4</size>
+   </internalDataColumns>
+   <internalDataColumns>
+      <columnIndex>7</columnIndex>
+      <name>Phone</name>
+      <size>4</size>
+   </internalDataColumns>
+   <internalDataColumns>
+      <columnIndex>8</columnIndex>
+      <name>PaymentMethod</name>
+      <size>4</size>
+   </internalDataColumns>
+   <isInternalPath>false</isInternalPath>
+   <query></query>
+   <secureUserAccount>false</secureUserAccount>
+   <sheetName></sheetName>
+   <usingGlobalDBSetting>false</usingGlobalDBSetting>
+</DataFileEntity>

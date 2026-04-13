@@ -1,99 +1,125 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestCaseEntity>
    <description></description>
-   <name>Checkout</name>
+   <name>E2E_Checkout</name>
    <tag></tag>
    <comment></comment>
    <recordOption>OTHER</recordOption>
-   <testCaseGuid>9c4045a8-a4ed-44eb-82c7-a9897151216f</testCaseGuid>
+   <testCaseGuid>b6d16c40-dad5-4b4f-9d6a-d4fc9e643466</testCaseGuid>
    <variableLinks>
       <testDataLinkId></testDataLinkId>
       <type>DEFAULT</type>
       <value></value>
-      <variableId>bdb24d67-a8e8-4538-b964-4516ed8e98d1</variableId>
+      <variableId>7c0bd340-4ee3-4554-a1f4-b1b215c63b56</variableId>
    </variableLinks>
    <variableLinks>
       <testDataLinkId></testDataLinkId>
       <type>DEFAULT</type>
       <value></value>
-      <variableId>f616efe6-dea0-4c8d-89b7-13f942ccf5ca</variableId>
+      <variableId>95b270bf-4839-4396-a905-27ddd557b5d9</variableId>
    </variableLinks>
    <variableLinks>
       <testDataLinkId></testDataLinkId>
       <type>DEFAULT</type>
       <value></value>
-      <variableId>497d0c0d-606e-49e7-ac92-87f1d550a7c0</variableId>
+      <variableId>4d581700-f2c4-4e77-bfbe-d1e3f127992c</variableId>
    </variableLinks>
    <variableLinks>
       <testDataLinkId></testDataLinkId>
       <type>DEFAULT</type>
       <value></value>
-      <variableId>04c85189-19ff-4c31-9247-b1cb69223bc0</variableId>
+      <variableId>28adaa85-fe11-4763-be02-77c195566669</variableId>
    </variableLinks>
    <variableLinks>
       <testDataLinkId></testDataLinkId>
       <type>DEFAULT</type>
       <value></value>
-      <variableId>bb54d6d7-6cf4-412b-ac95-902bc2acd39c</variableId>
+      <variableId>5fec4117-c658-47e1-b258-a1e632a67baa</variableId>
    </variableLinks>
    <variableLinks>
       <testDataLinkId></testDataLinkId>
       <type>DEFAULT</type>
       <value></value>
-      <variableId>f2e95195-452f-460e-8549-35b0b7c82747</variableId>
+      <variableId>152200f1-58e7-4d15-80d3-8e4cd6d5d2b0</variableId>
    </variableLinks>
    <variableLinks>
       <testDataLinkId></testDataLinkId>
       <type>DEFAULT</type>
       <value></value>
-      <variableId>ce305be7-3ab7-4e2e-9ecf-d784f02102e2</variableId>
+      <variableId>a0f07aba-e83a-488c-80f9-aabe58803671</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>8011c7e2-6a50-4aa0-9c74-15c4964a5586</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>27d16e8b-fff0-4ff8-ac24-78e7dbd55f04</variableId>
    </variableLinks>
    <variable>
-      <defaultValue>'India'</defaultValue>
+      <defaultValue>'asdasd123456@gmail.com'</defaultValue>
       <description></description>
-      <id>bdb24d67-a8e8-4538-b964-4516ed8e98d1</id>
+      <id>7c0bd340-4ee3-4554-a1f4-b1b215c63b56</id>
+      <masked>false</masked>
+      <name>Username</name>
+   </variable>
+   <variable>
+      <defaultValue>'3V9W6UWH6RL1TQ8ULHqRCg=='</defaultValue>
+      <description></description>
+      <id>95b270bf-4839-4396-a905-27ddd557b5d9</id>
+      <masked>false</masked>
+      <name>Password</name>
+   </variable>
+   <variable>
+      <defaultValue>'Indonesia'</defaultValue>
+      <description></description>
+      <id>4d581700-f2c4-4e77-bfbe-d1e3f127992c</id>
       <masked>false</masked>
       <name>CountryName</name>
    </variable>
    <variable>
       <defaultValue>'asdsad'</defaultValue>
       <description></description>
-      <id>f616efe6-dea0-4c8d-89b7-13f942ccf5ca</id>
+      <id>28adaa85-fe11-4763-be02-77c195566669</id>
       <masked>false</masked>
       <name>FirstName</name>
    </variable>
    <variable>
       <defaultValue>'asdasd'</defaultValue>
       <description></description>
-      <id>497d0c0d-606e-49e7-ac92-87f1d550a7c0</id>
+      <id>5fec4117-c658-47e1-b258-a1e632a67baa</id>
       <masked>false</masked>
       <name>LastName</name>
    </variable>
    <variable>
       <defaultValue>'asdasdasd'</defaultValue>
       <description></description>
-      <id>04c85189-19ff-4c31-9247-b1cb69223bc0</id>
+      <id>152200f1-58e7-4d15-80d3-8e4cd6d5d2b0</id>
       <masked>false</masked>
       <name>companyName</name>
    </variable>
    <variable>
       <defaultValue>'asdasd@gmail.com'</defaultValue>
       <description></description>
-      <id>bb54d6d7-6cf4-412b-ac95-902bc2acd39c</id>
+      <id>a0f07aba-e83a-488c-80f9-aabe58803671</id>
       <masked>false</masked>
       <name>Email</name>
    </variable>
    <variable>
       <defaultValue>'08123123123123'</defaultValue>
       <description></description>
-      <id>f2e95195-452f-460e-8549-35b0b7c82747</id>
+      <id>8011c7e2-6a50-4aa0-9c74-15c4964a5586</id>
       <masked>false</masked>
       <name>Phone</name>
    </variable>
    <variable>
-      <defaultValue>'Direct'</defaultValue>
+      <defaultValue>'Paypal'</defaultValue>
       <description></description>
-      <id>ce305be7-3ab7-4e2e-9ecf-d784f02102e2</id>
+      <id>27d16e8b-fff0-4ff8-ac24-78e7dbd55f04</id>
       <masked>false</masked>
       <name>PaymentMethod</name>
    </variable>

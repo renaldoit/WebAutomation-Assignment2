@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_DKI Jakarta</name>
+   <tag></tag>
+   <elementGuidId>0cea0184-5c2e-46f6-98d2-d9d94afb85b7</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='select2-result-label-615']/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>span.select2-match</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>db960d5d-b411-4b85-870a-6c83d85bad8d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>select2-match</value>
+      <webElementGuid>a545c9f5-9320-4ccf-b453-ef880c070b30</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>DKI Jakarta</value>
+      <webElementGuid>73c1c715-6c3a-4cda-81be-07b4712aa5e5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;select2-result-label-615&quot;)/span[@class=&quot;select2-match&quot;]</value>
+      <webElementGuid>3067a665-8d72-4787-aaee-7d4cbb27e08e</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='select2-result-label-615']/span</value>
+      <webElementGuid>942c51e6-4591-485b-99e2-8c6f9e4f4744</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='*'])[14]/following::span[1]</value>
+      <webElementGuid>e7a3ffb5-11e4-413d-81d3-176d23951e82</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li/div/span</value>
+      <webElementGuid>44727f31-7d97-4a37-b52e-71061ebebdc6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'DKI Jakarta' or . = 'DKI Jakarta')]</value>
+      <webElementGuid>e3ae7a11-538d-4c16-8292-f143939ab5c6</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

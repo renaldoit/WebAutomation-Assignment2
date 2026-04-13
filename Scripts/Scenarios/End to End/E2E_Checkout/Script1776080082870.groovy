@@ -19,8 +19,11 @@ import org.openqa.selenium.Keys as Keys
 
 WebUI.callTestCase(findTestCase('Blocks/Reusable/Open_Browser'), [:], FailureHandling.STOP_ON_FAILURE)
 
+WebUI.callTestCase(findTestCase('Blocks/Block_TC_Positive/Login'), [('Username') : Username, ('Password') : Password], FailureHandling.STOP_ON_FAILURE)
+
 WebUI.callTestCase(findTestCase('Blocks/Block_TC_Positive/Checkout'), [('CountryName') : CountryName, ('FirstName') : FirstName
-        , ('LastName') : LastName, ('companyName') : companyName, ('Email') : Email, ('Phone') : Phone], FailureHandling.STOP_ON_FAILURE)
+        , ('LastName') : LastName, ('companyName') : companyName, ('Email') : Email, ('Phone') : Phone, ('PaymentMethod') : PaymentMethod], 
+    FailureHandling.STOP_ON_FAILURE)
 
 WebUI.callTestCase(findTestCase('Blocks/Reusable/Close_Browser'), [:], FailureHandling.STOP_ON_FAILURE)
 
