@@ -117,7 +117,7 @@
       <name>Phone</name>
    </variable>
    <variable>
-      <defaultValue>'Paypal'</defaultValue>
+      <defaultValue>'COD'</defaultValue>
       <description></description>
       <id>27d16e8b-fff0-4ff8-ac24-78e7dbd55f04</id>
       <masked>false</masked>

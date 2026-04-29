@@ -12,7 +12,7 @@
    <rerunImmediately>false</rerunImmediately>
    <testSuiteGuid>8c1eec39-a017-4613-9cf7-c3de593d5f2c</testSuiteGuid>
    <testCaseLink>
-      <guid>201ec241-6849-4592-b527-ea11f1799497</guid>
+      <guid>53437970-0f8a-4d63-b788-e4d88d358a62</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
       <testCaseId>Test Cases/Scenarios/End to End/E2E_Checkout</testCaseId>

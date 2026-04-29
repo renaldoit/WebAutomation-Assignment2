@@ -49,7 +49,7 @@
       <variableId>ce305be7-3ab7-4e2e-9ecf-d784f02102e2</variableId>
    </variableLinks>
    <variable>
-      <defaultValue>'India'</defaultValue>
+      <defaultValue>'Spanyol'</defaultValue>
       <description></description>
       <id>bdb24d67-a8e8-4538-b964-4516ed8e98d1</id>
       <masked>false</masked>
@@ -91,7 +91,7 @@
       <name>Phone</name>
    </variable>
    <variable>
-      <defaultValue>'Direct'</defaultValue>
+      <defaultValue>'Check'</defaultValue>
       <description></description>
       <id>ce305be7-3ab7-4e2e-9ecf-d784f02102e2</id>
       <masked>false</masked>
